@@ -1,0 +1,14 @@
+C:\Users\roger\OneDrive\Desktop\REPO\Variables20\Variables20\bin\Debug\netcoreapp3.1\Variables20.exe
+C:\Users\roger\OneDrive\Desktop\REPO\Variables20\Variables20\bin\Debug\netcoreapp3.1\Variables20.deps.json
+C:\Users\roger\OneDrive\Desktop\REPO\Variables20\Variables20\bin\Debug\netcoreapp3.1\Variables20.runtimeconfig.json
+C:\Users\roger\OneDrive\Desktop\REPO\Variables20\Variables20\bin\Debug\netcoreapp3.1\Variables20.runtimeconfig.dev.json
+C:\Users\roger\OneDrive\Desktop\REPO\Variables20\Variables20\bin\Debug\netcoreapp3.1\Variables20.dll
+C:\Users\roger\OneDrive\Desktop\REPO\Variables20\Variables20\bin\Debug\netcoreapp3.1\Variables20.pdb
+C:\Users\roger\OneDrive\Desktop\REPO\Variables20\Variables20\obj\Debug\netcoreapp3.1\Variables20.csproj.AssemblyReference.cache
+C:\Users\roger\OneDrive\Desktop\REPO\Variables20\Variables20\obj\Debug\netcoreapp3.1\Variables20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roger\OneDrive\Desktop\REPO\Variables20\Variables20\obj\Debug\netcoreapp3.1\Variables20.AssemblyInfoInputs.cache
+C:\Users\roger\OneDrive\Desktop\REPO\Variables20\Variables20\obj\Debug\netcoreapp3.1\Variables20.AssemblyInfo.cs
+C:\Users\roger\OneDrive\Desktop\REPO\Variables20\Variables20\obj\Debug\netcoreapp3.1\Variables20.csproj.CoreCompileInputs.cache
+C:\Users\roger\OneDrive\Desktop\REPO\Variables20\Variables20\obj\Debug\netcoreapp3.1\Variables20.dll
+C:\Users\roger\OneDrive\Desktop\REPO\Variables20\Variables20\obj\Debug\netcoreapp3.1\Variables20.pdb
+C:\Users\roger\OneDrive\Desktop\REPO\Variables20\Variables20\obj\Debug\netcoreapp3.1\Variables20.genruntimeconfig.cache
